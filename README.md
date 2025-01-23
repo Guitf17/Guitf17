@@ -4,6 +4,8 @@
 - 🌟 Olá! Sou o **Guitf17**, apaixonado por tecnologia e atualmente focado em desenvolvimento com **Python**.
 - 👀 Estou interessado em explorar diferentes áreas da programação, desde automação até inteligência artificial.
 - 😄 Meus pronomes são **ele/dele**.
+- ⚡ "A programação não é apenas sobre código, é sobre criar soluções criativas para problemas do mundo real."
+
 
 ---
 
